@@ -16,4 +16,4 @@
 `Dalssak_Run.py 실행!` 
 ## Controls
 ### press key 
-`↑` `↓` `←` `→`
+**Player Control: `↑` `↓` `←` `→`**
