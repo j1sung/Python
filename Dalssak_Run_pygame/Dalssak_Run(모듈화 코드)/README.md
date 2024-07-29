@@ -17,3 +17,4 @@
     ├── victory.mp3
     └── gameover.mp3
 ```
+Play! `main.py`
