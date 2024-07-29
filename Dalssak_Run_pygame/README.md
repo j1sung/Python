@@ -14,4 +14,6 @@
 `main.py 실행!`
 ### 2. 전체 통합 코드 ver.
 `Dalssak_Run.py 실행!` 
-## Play!
+## Controls
+### press key 
+`↑` `↓` `←` `→`
