@@ -1,2 +1,2 @@
 # Python
-- Fun with Python!
+- Enjoy with Python!
